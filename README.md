@@ -1,2 +1,2 @@
 # Azure_Datalake_ServicePrincipal
-Connecting to Azure Datalake and uploading blob
+Repo containing JAVA code to connect to Azure Datalake and upload blob using Service Principal
